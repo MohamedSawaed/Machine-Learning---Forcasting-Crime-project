@@ -6,14 +6,17 @@ https://www.bleepingcomputer.com/news/security/googles-tensorflow-drops-yaml-sup
 
 Introduction:
 The project focuses on training of the different Deep Learning neural network to predict the Police Beats of a crime that is occurred in the Chicago city. The Chicago Crime data from the year 2001 to 2019 is used for this purpose.
+
 Data preprocessing:
 The first step in the creation of any deep learning architecture is the preprocessing step in which the data is cleaned, to feed in the correct and most accurate data by feature selection into the algorithm. As the models can only work on numerical data, we converted the categorical data to their numerical alternative. The NAN values in the data are dropped because their proportion was smaller as compared to the whole dataset. 
+
 Feature Selection
 Using correlation analysis, we handpicked few of the features that we would be using to build the model, these features have either close positive or close negative correlation with the target variable that is Beat
 •	Location_Description
 •	Arrest
 •	Domestic
 •	Community_Area
+
 Data visualization 
 As our focus was on the creating deep learning model so we limited our data visualization but the visualizations that we used gives great insights into the data
 
