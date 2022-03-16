@@ -16,7 +16,10 @@ Using correlation analysis, we handpicked few of the features that we would be u
 •	Community_Area
 Data visualization 
 As our focus was on the creating deep learning model so we limited our data visualization but the visualizations that we used gives great insights into the data
+
+
 ![image](https://user-images.githubusercontent.com/98653093/158594111-ac3d3fab-7aa7-48be-8ad5-193eb994ecf7.png)
+
 
 ![image](https://user-images.githubusercontent.com/98653093/158594139-2f120e05-8904-4d05-a82c-9a37dc28f485.png)
 
